@@ -12,7 +12,8 @@ A sleek, modern conversational AI web app — inspired by ChatGPT’s interface 
 
 ## 📸 Preview
 
-![Chat_Model UI Preview]
+![](Chat-Model-preview1.JPG)
+![](Chat-Model-preview2.JPG)
 
 First, add your OpenAI API key to `.env.local` file:
 
