@@ -1,8 +1,7 @@
 
 ## Getting Started
 
-
-# 💬 Gemini-Chat UI
+# 💬 Your-Real-Companion
 
 A sleek, modern conversational AI web app — inspired by ChatGPT’s interface but powered by the **soul of Google's Gemini API** under the hood. Think ChatGPT, but with a plot twist! 🤖✨
 
